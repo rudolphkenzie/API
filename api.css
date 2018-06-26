@@ -1,0 +1,71 @@
+.entire{
+    background-color: rgb(98, 146, 173); 
+   
+}
+
+.title{
+    margin-left: 40%; 
+}
+
+.results{
+    margin-right: 2%; 
+}
+
+.title{
+    float: left;
+    margin-top: 20px;
+    position: absolute;
+    font-family: Happy Monkey; 
+    font-size: 30px;
+    color: white; 
+}
+
+.navOp{
+    margin-top: 50px;
+    height: 50px;
+}
+
+.navBar{
+    width: 100%;
+    /* background-color:black; */
+    float: center;
+    margin: -1.5em 0 0 0;
+    padding: 0.35em;
+    /* background-color: red; */
+    background:url(guitar.jpg);
+    opacity: 0.5;
+    filter: alpha(opacity=50); 
+    height: 150px;
+    padding: 0 0em 0 0em;
+    vertical-align: middle; 
+    margin-left: 0%; 
+}
+
+nav {
+    color:grey;
+    font-size: 2em;
+    letter-spacing: 0.04em;
+    padding: 1.0em 1.0em 0.5em;
+    margin-top: 23px;
+}
+
+.pics{
+    width: 400px; 
+    height: 350px; 
+    margin-left: 900px; 
+    /* position: fixed;  */
+}
+
+#pics li{
+    list-style: none;
+    text-align: right;
+  
+}
+section{
+    width: 50%;
+    float: left;
+    background-color:white; 
+    /* border: 5px solid black; */
+    padding-left: 20px;
+}
+
